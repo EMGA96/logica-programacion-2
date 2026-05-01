@@ -1,2 +1,2 @@
 # logica-programacion-2
-Tarea
+Realización de ejercicios basicos para la logica de programación. 
